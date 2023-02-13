@@ -1,0 +1,39 @@
+{
+  "name": "vsc-soft-theme",
+  "displayName": "vsc-soft-theme",
+  "description": "vscode self-use theme",
+  "version": "0.0.1",
+  "publisher": "ikx12333",
+  "author": "ikx12333 <521skx@gmail.com> (https://github.com/ikx12333)",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikx12333/vsc-soft-theme.git"
+  },
+  "scripts": {
+		"install vsce": "npm install vsce -g --save vsce",
+		"build": "vsce package",
+		"publish": "vsce publish"
+	},
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "vsc-green-light",
+        "uiTheme": "vs",
+        "path": "./themes/vsc-theme-green.json"
+      },
+      {
+        "label": "vsc-solarized-light",
+        "uiTheme": "vs",
+        "path": "./themes/vsc-theme-solarized.json"
+      }
+    ]
+  }
+}
