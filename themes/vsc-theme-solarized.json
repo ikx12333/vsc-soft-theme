@@ -1,7 +1,7 @@
 {
 	"name": "vsc-solarized-light",
 	"colors": {
-		"focusBorder": "#b49471",
+		"focusBorder": "#b494716e",
 		"input.background": "#DDD6C1",
 		"input.foreground": "#586E75",
 		"input.placeholderForeground": "#586E75AA",
@@ -13,10 +13,10 @@
 		"button.background": "#AC9D57",
 		"quickInputList.focusBackground": "#DFCA8866",
 		"selection.background": "#878b9180",
-		"list.activeSelectionBackground": "#DFCA88",
+		"list.activeSelectionBackground": "#d1cbb87a",
 		"list.activeSelectionForeground": "#6C6C6C",
 		"list.hoverBackground": "#DFCA8844",
-		"list.inactiveSelectionBackground": "#D1CBB8",
+		"list.inactiveSelectionBackground": "#d1cbb87a",
 		"list.highlightForeground": "#B58900",
 		"editor.background": "#fffae8",
 		"editor.foreground": "#657B83",
@@ -88,7 +88,11 @@
 		"terminal.ansiBrightCyan": "#93a1a1",
 		"terminal.ansiBrightWhite": "#fffae8",
 		"terminal.background": "#fffae8",
-		"walkThrough.embeddedEditorBackground": "#00000014"
+		"walkThrough.embeddedEditorBackground": "#00000014",
+    "scrollbar.shadow": "#d1cbb84b",
+		"scrollbarSlider.activeBackground": "#d1cbb84b",
+		"scrollbarSlider.background": "#d1cbb84b",
+		"scrollbarSlider.hoverBackground": "#d1cbb84b"
 	},
 	"tokenColors": [
 		{
