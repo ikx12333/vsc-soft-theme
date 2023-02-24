@@ -81,7 +81,11 @@
 		"minimapSlider.hoverBackground": "#51965749",
 		"minimapSlider.activeBackground": "#51965749",
 		"minimapSlider.background": "#51965749",
-		"terminal.background": "#c8e6c9"
+		"terminal.background": "#c8e6c9",
+		"peekView.border": "#6faf71",
+		"peekViewEditor.background": "#bfdabf73",
+		"peekViewResult.background": "#bfdabf73",
+		"peekViewTitle.background": "#bfdabf"
 	},
 	"tokenColors": [
 		{
