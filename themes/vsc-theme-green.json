@@ -17,7 +17,7 @@
 		"dropdown.border": "#c5e1a5",
 		"editor.background": "#c8e6c9",
 		"editor.lineHighlightBackground": "#338a3f1b",
-		"editor.selectionBackground": "#338a3f6b",
+		"editor.selectionBackground": "#338a3f23",
 		"editorBracketHighlight.foreground1": "#006db3",
 		"editorBracketHighlight.foreground2": "#388e3c",
 		"editorBracketHighlight.foreground3": "#c77800",
@@ -87,7 +87,9 @@
 		"peekView.border": "#6faf71",
 		"peekViewEditor.background": "#bfdabf73",
 		"peekViewResult.background": "#bfdabf73",
-		"peekViewTitle.background": "#bfdabf"
+		"peekViewTitle.background": "#bfdabf",
+		"editorInlayHint.parameterBackground": "#81b684",
+		"editorInlayHint.parameterForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
