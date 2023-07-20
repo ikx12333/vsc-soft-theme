@@ -2,11 +2,11 @@
   "name": "vsc-soft-theme",
   "displayName": "vsc-soft-theme",
   "description": "vscode self-use theme",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "publisher": "ikx12333",
   "author": "ikx12333 <521skx@gmail.com> (https://github.com/ikx12333)",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.64.0"
   },
   "categories": [
     "Themes"
@@ -17,10 +17,10 @@
     "url": "https://github.com/ikx12333/vsc-soft-theme.git"
   },
   "scripts": {
-		"install vsce": "npm install vsce -g --save vsce",
-		"build": "vsce package",
-		"publish": "vsce publish"
-	},
+    "install-vesc": "npm i @vscode/vsce -g",
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
   "license": "MIT",
   "contributes": {
     "themes": [
