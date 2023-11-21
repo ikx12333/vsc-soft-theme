@@ -96,9 +96,7 @@
 		"peekView.border": "#6faf71",
 		"peekViewEditor.background": "#bfdabf73",
 		"peekViewResult.background": "#bfdabf73",
-		"peekViewTitle.background": "#bfdabf",
-		"editorInlayHint.parameterBackground": "#81b684",
-		"editorInlayHint.parameterForeground": "#ffffff"
+		"peekViewTitle.background": "#bfdabf"
 	},
 	"tokenColors": [
 		{
